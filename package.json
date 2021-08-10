@@ -25,5 +25,9 @@
 	"homepage": "https://github.com/microsoft/ML-For-Beginners#readme",
 	"devDependencies": {
 		"docsify-to-pdf": "0.0.5"
+	},
+	"dependencies": {
+		"onnxruntime-node": "^1.8.0",
+		"onnxruntime-web": "^1.8.0"
 	}
 }
